@@ -21,8 +21,6 @@ Desde os meus 14 anos ja tinha meus blogs e fazia meus templates em HTML, mas a 
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?barbaradamasceno.dev=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
 <a href="https://github.com/barbaradamasdev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaradamasdev&layout=compact&langs_count=7&theme=dracula"/>
