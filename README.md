@@ -1,8 +1,3 @@
-<a href="https://github.com/barbaradamasdev/Landing-page-Tattoo"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/ink.png" width="45%"/></a> <a href="https://github.com/barbaradamasdev/Space-Travel-Site"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/space.png" width="45%"/></a>
-<a href="https://github.com/barbaradamasdev/Rock-Paper-Scissors"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/game.png" width="45%"/></a>
-
-
-
 ## Olá, me chamo Barbara, tudo bom? 
 ### Bem vindo ao meu perfil GitHub 🥰
 
@@ -32,4 +27,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaradamasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  
+### ☑️ Alguns dos meus projetos: 
+<a href="https://github.com/barbaradamasdev/Landing-page-Tattoo"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/ink.png" width="45%"/></a> <a href="https://github.com/barbaradamasdev/Space-Travel-Site"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/space.png" width="45%"/></a>
+<a href="https://github.com/barbaradamasdev/Rock-Paper-Scissors"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/game.png" width="45%"/></a> <a href="https://github.com/barbaradamasdev/Huddle-landing-page-with-alternating-feature-blocks"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/huddle.png" width="45%"/></a> <a href="https://github.com/barbaradamasdev/Chirp-Landing-Page"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/chirp.png" width="45%"/></a>
+<a href="https://github.com/barbaradamasdev/Hosterr-Waitlist-Page"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/hosterr.png" width="45%"/></a>
