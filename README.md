@@ -1,16 +1,16 @@
 ## Olá, me chamo Barbara, tudo bom? 
 ### Bem vindo ao meu perfil GitHub 🥰
 
-Desde os meus 14 anos ja tinha meus blogs e fazia meus templates em HTML, mas a vida foi me levando para outros caminhos e no final de 2022 comecei a organizar minha transição de carreira para finalmente trabalhar com a área de tecnologia.
+- Desde adolescente já tinha meus blogs e fazia meus templates em HTML, mas a vida foi me levando para outros caminhos.
+- No final de 2022 comecei a organizar minha transição de carreira para finalmente trabalhar com a área de tecnologia.
+- Atualmente estou estudando mais a fundo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
+- Compartilho um pouco dos meus estudos lá no [instagram](https://www.instagram.com/barbaradamasceno.dev/).
 
 <img src="https://media.tenor.com/_CtyqFYn7ZsAAAAC/pokemon-blastoise.gif" width="200" height="200"/> <img src="https://media.tenor.com/GLEinWYUNk0AAAAd/dog.gif" width="200" height="200"/>
 
 ### ⚡ Tenho conhecimento em: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-- Atualmente estou estudando mais a fundo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
-- Compartilho um pouco dos meus estudos lá no [instagram](https://www.instagram.com/barbaradamasceno.dev/).
 
 ### 📫 Como entrar em contato comigo: 
 <div>
