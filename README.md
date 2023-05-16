@@ -1,3 +1,8 @@
+<a href="https://github.com/barbaradamasdev/Landing-page-Tattoo"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/ink.png" width="45%"/></a> <a href="https://github.com/barbaradamasdev/Space-Travel-Site"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/space.png" width="45%"/></a>
+<a href="https://github.com/barbaradamasdev/Rock-Paper-Scissors"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/game.png" width="45%"/></a>
+
+
+
 ## Olá, me chamo Barbara, tudo bom? 
 ### Bem vindo ao meu perfil GitHub 🥰
 
@@ -26,3 +31,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaradamasdev&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaradamasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+  
