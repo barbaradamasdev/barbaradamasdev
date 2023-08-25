@@ -4,13 +4,15 @@
 - Desde adolescente já tinha meus blogs e fazia meus templates em HTML, mas a vida foi me levando para outros caminhos.
 - No final de 2022 comecei a organizar minha transição de carreira para finalmente trabalhar com a área de tecnologia.
 - Atualmente estou estudando mais a fundo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
-- Compartilho um pouco dos meus estudos lá no [instagram](https://www.instagram.com/barbaradamasceno.dev/).
+- Atuo como freelancer na criação de sites como front-end
 
-<img src="https://media.tenor.com/_CtyqFYn7ZsAAAAC/pokemon-blastoise.gif" width="200" height="200"/> <img src="https://media.tenor.com/GLEinWYUNk0AAAAd/dog.gif" width="200" height="200"/>
+<img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/ee623e1d5eeacc3e64fb0ce66b804ce14632d667/gif-mario-pixel.gif" width="100%"/>
 
 ### ⚡ Tenho conhecimento em: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+
+
 
 ### 📫 Como entrar em contato comigo: 
 <div>
