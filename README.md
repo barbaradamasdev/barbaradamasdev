@@ -3,7 +3,7 @@
 
 - Desde adolescente já tinha meus blogs e fazia meus templates em HTML, mas a vida foi me levando para outros caminhos.
 - No final de 2022 comecei a organizar minha transição de carreira para finalmente trabalhar com a área de tecnologia.
-- Atualmente estou estudando mais a fundo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
+- Atualmente estou estudando mais a fundo: Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" height="20" /> e Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" />
 - Atuo como freelancer na criação de sites como front-end
 
 <img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/ee623e1d5eeacc3e64fb0ce66b804ce14632d667/gif-mario-pixel.gif" width="100%"/>
