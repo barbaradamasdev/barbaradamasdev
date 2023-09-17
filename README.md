@@ -29,6 +29,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaradamasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-### ☑️ Alguns dos meus projetos: 
-  <a href="https://github.com/barbaradamasdev/Landing-page-Tattoo"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/ink.png" width="32%" object-fit="cover"/></a> <a href="https://github.com/barbaradamasdev/Space-Travel-Site"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/space.png" width="32%" object-fit="cover"/></a>
-<a href="https://github.com/barbaradamasdev/Rock-Paper-Scissors"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/game.png" width="32%" object-fit="cover"/></a>
+### ☑️ Alguns dos meus projetos mais recentes: 
+  <a href="https://github.com/barbaradamasdev/angular-site-clone-playstationstore"><img src="https://github.com/barbaradamasdev/angular-site-clone-playstationstore/blob/main/src/assets/preview-desktop.jpg?raw=true" width="23%" height="140px" object-fit="cover"/></a>
+<a href="https://github.com/barbaradamasdev/angular-blog-clone-globonews"><img src="https://user-images.githubusercontent.com/115722516/265544617-21c6f3aa-6f28-4eec-9139-f1a3fabf1800.png" width="23%" height="140px" object-fit="cover"/></a><a href="https://github.com/barbaradamasdev/Landing-page-Tattoo"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/ink.png" width="23%" height="140px" object-fit="cover"/></a> <a href="https://github.com/barbaradamasdev/Space-Travel-Site"><img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/main/space.png" width="23%" height="140px" object-fit="cover"/></a>
