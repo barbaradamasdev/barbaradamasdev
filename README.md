@@ -10,12 +10,15 @@
 <img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/ee623e1d5eeacc3e64fb0ce66b804ce14632d667/gif-mario-pixel.gif" width="80%"/>
 
 ### 🛠 &nbsp;Tech Stack: 
-
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+<div style="display: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" title="HTML 5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" title="CSS 3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="30px" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30px" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30px" title="Angular JS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30px" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30px" title="C#"/>
+</div>
 
 ### 📫 Como entrar em contato comigo: 
 <div>
