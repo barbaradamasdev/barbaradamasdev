@@ -10,6 +10,7 @@
 <img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/ee623e1d5eeacc3e64fb0ce66b804ce14632d667/gif-mario-pixel.gif" width="100%"/>
 
 ### 🛠 &nbsp;Tech Stack: 
+<!--
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" title="HTML 5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" title="CSS 3"/>
@@ -19,6 +20,56 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30px" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30px" title="C#"/>
 </div>
+-->
+
+<table>
+  <tbody>
+    <tr>
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/html-5.png">
+        <br>
+        <span>HTML5</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/css3.png">
+        <br>
+        <span>CSS3</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/javascript.png">
+        <br>
+        <span>JavaScript</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/angularjs.png">
+        <br>
+        <span>Angular</span>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+        <br>
+        <span>Typescript</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+        <br>
+        <span>C#</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+        <br>
+        <span>Java</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png">
+        <br>
+        <span>Photoshop</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 📫 Como entrar em contato comigo: 
 <div>
