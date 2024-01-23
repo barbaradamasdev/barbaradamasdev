@@ -74,7 +74,7 @@
 ### 📫 Como entrar em contato comigo: 
 <div>
 <a href="https://www.linkedin.com/in/barbaradamascenodev"><img src="https://img.shields.io/badge/Barbara%20Damasceno-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:barbaradamas.dev@gmail.com"><img src="https://img.shields.io/badge/-barbaradamas.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:barbaradsa@gmail.com"><img src="https://img.shields.io/badge/-barbaradsa@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://barbaradamasceno.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-D14822?style=flat-square&logoColor=white"/></a>
 </div>
 
