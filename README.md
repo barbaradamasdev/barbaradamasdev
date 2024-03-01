@@ -1,5 +1,5 @@
 ## Olá, como anda a vida? 
-### Bem vindo ao meu perfil GitHub 🥰
+### 🥰 Quem sou eu?
 
 - Desde adolescente já tinha meus blogs e fazia meus templates em HTML, mas a vida foi me levando para outros caminhos.
 - Tive meu primeiro contato com linguagem de programação com C#.
@@ -8,21 +8,13 @@
 - Curiosidades: Ja toquei em shows, orquestra sinfonica e em blocos de carnaval de rua.
 
 <img src="https://github.com/barbaradamasdev/barbaradamasdev/blob/ee623e1d5eeacc3e64fb0ce66b804ce14632d667/gif-mario-pixel.gif" width="100%"/>
+<hr>
 
-### 🛠 &nbsp;Tech Stack: 
-<!--
-<div style="display: flex;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" title="HTML 5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" title="CSS 3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="30px" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30px" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30px" title="Angular JS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30px" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30px" title="C#"/>
-</div>
--->
+## 🛠 Tech Stack: 
 
-<table>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,cs,java,photoshop" />
+
+<!--<table>
   <tbody>
     <tr>
       <td width="25%" align="center">
@@ -69,18 +61,43 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table>-->
+<hr>
 
-### 📫 Como entrar em contato comigo: 
+## 📫 Como entrar em contato comigo: 
 <div>
-<a href="https://www.linkedin.com/in/barbaradamascenodev"><img src="https://img.shields.io/badge/Barbara%20Damasceno-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:barbaradsa@gmail.com"><img src="https://img.shields.io/badge/-barbaradsa@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://barbaradamasceno.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-D14822?style=flat-square&logoColor=white"/></a>
+
+<a href="https://barbaradamasceno.vercel.app" target="_blank"><img title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-purple?style=for-the-badge&logoColor=white&logo=link" /></a> <a href="https://www.linkedin.com/in/barbaradamascenodev" target="_blank"><img title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=Linkedin" /></a> <a href="mailto:barbaradsa@gmail.com" target="_blank"><img title="Email" src="https://custom-icon-badges.demolab.com/badge/-barbaradsa@gmail.com-red?style=for-the-badge&logoColor=white&logo=gmail" /></a>
+    
 </div>
 
 <hr>
 
-<div>
-<a href="https://github.com/barbaradamasdev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaradamasdev&layout=compact&langs_count=7&theme=dracula"/>
+## ✅ Github Status: 
+<div align="center">
+  <div style="display: inline-block;">
+    <img width="300px" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaradamasdev&layout=compact&langs_count=7&theme=dracula" alt="Profile statistics"/>
+    
+  <img width="300px" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barbaradamasdev&layout=compact&theme=dracula" alt="Profile statistics"/>
+  
+  <img width="650px" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barbaradamasdev&theme=dracula" alt="Profile statistics"/>
+  </div>
+</div> 
+
+<hr>
+
+## ⭐ Repositórios destaque: 
+<div align="center"> 
+  <a href="https://github.com/barbaradamasdev/blizzard-clone"><img src="https://github.com/barbaradamasdev/blizzard-clone/raw/main/blizzard-clone.jpg?raw=true" width="250px" height="165"></a>
+    <a href="https://github.com/barbaradamasdev/to-do-list"><img src="https://github.com/barbaradamasdev/to-do-list/raw/main/wireframe/mockup-loginpage.png?raw=true" width="250px" height="165"></a>
+      <a href="https://github.com/barbaradamasdev/Landing-page-Tattoo"><img src="https://github.com/barbaradamasdev/Landing-page-Tattoo/raw/main/print1.png" width="250px" height="165"></a>
+        <a href="https://github.com/barbaradamasdev/Space-Travel-Site"><img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_900/Challenges/wudjsbv8g93aarlhvbud.jpg" width="250px" height="165"></a>
+  <a href="https://github.com/barbaradamasdev/portfolio"><img src="https://github.com/barbaradamasdev/portfolio/raw/main/projeto%20portfolio.jpg?raw=true" width="250px" height="165"></a>
+  <a href="https://github.com/barbaradamasdev/db-tecafocus-angular"><img src="https://raw.githubusercontent.com/barbaradamasdev/db-tecafocus-angular/8d6a95b72ecb8d71b50416e16f91130bd5c67822/src/assets/teca-img1.jpg" width="250px" height="165"></a>
+</div>
+<br>
+<div align="center"> 
+    <a href="https://github.com/barbaradamasdev?tab=repositories" target="_blank">
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Ver%20Todos%20os%20Repositorios-white?style=for-the-badge&logoColor=black&logo=repo" />
+    </a>
 </div>
