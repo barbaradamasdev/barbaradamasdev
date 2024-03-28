@@ -3,7 +3,6 @@
 
 - Desde adolescente já tinha meus blogs e fazia meus templates em HTML, mas a vida foi me levando para outros caminhos.
 - Tive meu primeiro contato com linguagem de programação com C#.
-- No final de 2022 comecei a organizar minha transição de carreira para finalmente trabalhar com a área de tecnologia.
 - Atualmente atuo como freelancer na criação de sites como front-end e também tenho uma empresa onde atuo na parte da gestão.
 - Curiosidades: Ja toquei em shows, orquestra sinfonica e em blocos de carnaval de rua.
 
